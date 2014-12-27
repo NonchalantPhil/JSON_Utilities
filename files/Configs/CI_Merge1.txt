@@ -1,0 +1,11 @@
+MERGE
+MasterInputPath,C:/Users/Philip/Java15/JSON_Utilities/files/Inputs/MasterJSON.JSON
+SupplyInputPath,C:/Users/Philip/Java15/JSON_Utilities/files/Inputs/SupplyJSON.JSON
+OutputFilePath,C:/Users/Philip/Java15/JSON_Utilities/files/Outputs
+OutputFileName,Merge1
+KeyFieldName,organisationID
+SupplyFieldName,services
+KeyFieldStartCol,1
+KeyFieldEndCol,11
+SecondLevelFieldStart,12
+SecondLevelFieldEnd,14
